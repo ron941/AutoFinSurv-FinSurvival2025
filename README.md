@@ -28,7 +28,7 @@
 
 ## Usage
 ```bash
-# 1️⃣ Optuna refinement (約 320 GPU-hours)
+# 1️⃣ Optuna refinement
 python xgb_cox_finetuning.py
 
 # 2️⃣ Generate final submission zip
